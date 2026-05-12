@@ -17,8 +17,7 @@
 
             <tr>
                 <td> <label>Student Name:</label></td>
-                <td><input type="text" size="17" placeholder="First Name"> -
-                    <input type="text" size="16" placeholder="Last Name">
+                <td><input type="text" size="17" placeholder="First Name">
                 </td>
             </tr>
 
